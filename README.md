@@ -6,9 +6,9 @@ Simple FlipCard React Component
 
 # Demo
 
-<img src='./src/horizontal-flip.gif' alt='horizontal' />
+<img src='./src/images/horizontal-flip.gif' alt='horizontal' />
 
-<img src='./src/vertical-flip.gif' alt='vertical-flip' />
+<img src='./src/images/vertical-flip.gif' alt='vertical-flip' />
 
 # Usage
 
