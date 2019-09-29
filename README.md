@@ -2,7 +2,7 @@
 
 Simple FlipCard React Component
 
-`npm i react-flip --save`
+`npm i @dragonza/react-flip-card --save`
 
 # Demo
 

@@ -1,6 +1,7 @@
 {
-  "name": "react-flip",
+  "name": "@dragonza/react-flip-card",
   "version": "1.0.0",
+  "description": "A Simple React flip card",
   "dependencies": {
     "classnames": "^2.2.6",
     "enzyme": "^3.10.0",
