@@ -57,5 +57,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dragonza/react-flip.git"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-flip-card",
+    "animation-card"
+  ]
 }
