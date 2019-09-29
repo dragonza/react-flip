@@ -53,5 +53,9 @@
   },
   "prettier": {
     "singleQuote": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragonza/react-flip"
   }
 }
